@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Walter Mazur",
+    "label": "Full Stack Developer",
+    "picture": "",
+    "email": "mazurbeam@gmail.com",
+    "phone": "(312) 965-2868",
+    "summary": "",
+    "location": {
+      "address": "603 3rd Ave W",
+      "postalCode": "WA 98119",
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Walter Mazur",
+        "url": "https://www.linkedin.com/in/walter-mazur-02803453/"
+      },
+      {
+        "network": "Github",
+        "username": "mazurbeam",
+        "url": "https://github.com/mazurbeam/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance",
+      "position": "Full Stack Developer",
+      "website": "https://www.freelancer.com/",
+      "startDate": "2018-01-01",
+      "endDate": "2018-08-22",
+      "summary": "Have been contributing to several freelance web development projects and client feedback has been nothing but positive.",
+      "highlights": [
+        "www.edupages.com"
+      ]
+    },
+    {
+      "company": "Micro Center",
+      "position": "Service Technician",
+      "website": "http://www.microcenter.com/",
+      "startDate": "2016-05-15",
+      "endDate": "2016-11-15",
+      "summary": "Worked with a team of PC and Apple techs in the Service and Repair center of this consumer electronics store. This was a fast-paced, high-volume repair shop so documenting every repair step in a database was essential to keeping things running smoothly.",
+      "highlights": [
+        "Worked with a team"
+      ]
+    },
+    {
+      "company": "Chicago Surplus Computer",
+      "position": "Sales & Business Development",
+      "website": "http://www.chicagosurpluscomputer.com/",
+      "startDate": "2014-02-01",
+      "endDate": "2014-11-29",
+      "summary": "My primary responsibility was connecting with schools and businesses to sell refurbished computers and electronics.  However, sales is not one of my strong points so most of my efforts went towards setting up an ecommerce site.",
+      "highlights": [
+        "Built an ecommerce website"      ]
+    },
+    {
+      "company": "PC Rebuilder’s & Recyclers",
+      "position": "Technical Support",
+      "website": "http://www.pcrr.com/",
+      "startDate": "2011-03-01",
+      "endDate": "2014-01-31",
+      "summary": "I joined as a bench technician at a time the company was growing quickly and the need for a full-time technical support position just became necessary. I soon became a huge value to the company with The need soon came for a full-time Technical Support position and, as the most knowledgeable technician, I was quickly promoted the role.",
+      "highlights": [
+        "Learned very quickly to Google first before asking questions",
+        "Designed a database"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coding Dojo",
+      "area": "Web Development",
+      "studyType": "Bootcamp",
+      "startDate": "2017-06-18",
+      "endDate": "2017-09-30",
+      "courses": [
+        "Python - Django",
+        "JavaScript - MEAN Stack",
+        "Java - Spring"
+      ]
+    },
+    {
+      "institution": "Western Illinois University",
+      "area": "Computer Science",
+      "studyType": "2 Years",
+      "startDate": "2008-08-01",
+      "endDate": "2010-05-25",
+      "courses": [
+        "CS201 - Java I",
+        "CS202 - Java II"
+      ]
+    }
+  ],
+  "publications": [
+    {
+    "name": "EduPages",
+    "website": "http://www.edupages.com",
+    "summary": "College Directory built from publically avaiable data."
+  },
+  {
+    "name": "Bright Ideas",
+    "website": "http://pubhttps://github.com/mazurbeam/Idea­Walllication.com",
+    "summary": "Web app that allows users to post and like idea’s and see who else liked an idea. Created database along with controllers, repositories, and models for a fully functional app within 4 hours for the Coding Dojo Java/Spring belt exam. Tech – JavaScript, Python, React.JS, Redux, Flow, Django"
+  },
+  {
+    "name": "Survey App",
+    "website": "https://github.com/mazurbeam/Survey­App",
+    "summary": "Web app that allows users to create and take single question surveys. Created database along with controllers and front­end for a fully functional app within 4 hours for the Coding Dojo MEAN belt exam. Tech – JavaScript, Mongoose.js, Express.js, Angular 4, Node.js"
+  }
+],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Javascript",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "name": "Front-End",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "jQuery",
+        "Bootstrap",
+        "React.js"
+      ]
+    },
+    {
+      "name": "Back-End",
+      "keywords": [
+        "SQL (MySQL, SQLite)",
+        "PostgreSQL",
+        "MongoDB",
+        "Node.js",
+        "Flask",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Django",
+        "Angular / MEAN",
+        "Express.js",
+        "Spring Boot"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "Redux",
+        "Thunk",
+        "Webpack",
+        "Babel",
+        "Flow",
+        "Jest",
+        "RESTful Architecture",
+        "GIS",
+        "Linux",
+        "Git",
+        "Mezzanine"
+      ]
+    }
+  ]
+}
